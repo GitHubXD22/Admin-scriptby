@@ -1,0 +1,15 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheOnlyDEVIL/DevilsAdmin/main/DEVILSADMIN" ))()
+
+wait(1)
+game.StarterGui:SetCore("SendNotification", {
+    Title = " made by pepa Enjoy!";
+    Text = "I hope you like the script"; -- what the text says (ofc)
+    Duration = 30;
+})
+
+wait(1)
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Commands";
+    Text = ";fly, ;kat, ;psx, ;plsdonate, ;vape, ;bedwars, ;doors, ;keyboard, ;infinity :D"; -- what the text says (ofc)
+    Duration = 30;
+})
